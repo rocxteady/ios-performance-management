@@ -24,10 +24,10 @@ The goal is to help you understand how each cache works, their trade-offs, and h
 
 ## Learn More
 
-For a step-by-step explanation and code walkthrough, check out the Medium article:
+For a step-by-step explanation and code walkthrough, check out the LinkedIn Pulse article:
 
-[Read the full tutorial on Medium](https://medium.com/your-article-link)
+[Read the full tutorial on LinkedIn Pulse](https://www.linkedin.com/pulse/why-caching-matters-ios-performance-modern-swift-examples-ula%C5%9F-sancak-hyb3f)
 
 ---
 
-Feel free to use or adapt the code for your own projects. If you have questions or suggestions, open an issue or leave a comment on the Medium post! 
+Feel free to use or adapt the code for your own projects. If you have questions or suggestions, open an issue or leave a comment on the LinkedIn Pulse! 
